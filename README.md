@@ -72,24 +72,21 @@ CRM Database: Source for sales and performance data
 
 ---
 
-![Power BI Dashboard](https://github.com/NishaDataInsights
-/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0001.jpg)  
+![Power BI Dashboard](https://github.com/NishaDataInsights/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0001.jpg)  
 *Above: Power BI Dashboard showcasing front page and theme.*
 
 ---
 
 ---
 
-![Power BI Dashboard](https://github.com/NishaDataInsights
-/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0002.jpg)  
+![Power BI Dashboard](https://github.com/NishaDataInsights/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0002.jpg)  
 *Above: Power BI Dashboard showcasing Second page and theme.*
 
 ---
 
 ---
 
-![Power BI Dashboard](https://github.com/NishaDataInsights
-/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0003.jpg)  
+![Power BI Dashboard](https://github.com/NishaDataInsights/CRM_Sale_Dashboard_Analytics/Assets/crm project_page-0003.jpg)  
 *Above: Power BI Dashboard showcasing Third page and theme.*
 
 ---
